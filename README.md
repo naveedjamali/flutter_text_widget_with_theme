@@ -1,16 +1,8 @@
-# flutter_text_widget_with_theme
+# Flutter Text Widget with material Theme
 
-A new Flutter project.
+This Flutter Project demonstrate how can we use Material Text Theme in our Flutter app. Material Theme provide 13 text styles in its theme design.
+Out of those 13 styles, 6 styles target Heading text, 2 for body text, 2 for Sub Titles, 1 for Button, 1 for Caption, and 1 for Overline text. 
 
-## Getting Started
+## Final Result
+To see the final result find the screenshot in the root directory of project.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
